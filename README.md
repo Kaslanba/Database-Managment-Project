@@ -7,9 +7,8 @@ ER Diagram of the SQL Database:
 
 User - Interface:
 
-
-![UI2](https://user-images.githubusercontent.com/109238222/225353083-29297e29-b145-463c-ae62-a509449ab430.png)
-
+![Ekran görüntüsü 2023-03-15 181119](https://user-images.githubusercontent.com/109238222/225353849-90d1f983-d0d5-418b-b3d9-a92c77ddc0b4.png)
 
 
-![Resim4](https://user-images.githubusercontent.com/109238222/225353182-2e47d3ae-8c42-4073-8e76-bb9add50f26c.png)
+
+![Ekran görüntüsü 2023-03-15 181056](https://user-images.githubusercontent.com/109238222/225353898-7f492d63-4244-4946-894f-9b75b57dbfe0.png)
