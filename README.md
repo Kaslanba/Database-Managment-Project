@@ -1,6 +1,6 @@
 # Database Managment Systems-Project
 
-We created a Graduate Thesis System using aspx and MS SQL for Database Managment Systems lecture in 2021.
+We created a Graduate Thesis System using aspx and MS SQL for Database Managment Systems lecture in 2021. Here you can see our report: https://drive.google.com/file/d/1UM5T20Wh_-RBTu8QxbUbmPfHlSwuIex7/view?usp=sharing
 
 ER Diagram of the SQL Database:
 
@@ -17,4 +17,4 @@ User - Interface:
 ![Ekran görüntüsü 2023-03-15 181056](https://user-images.githubusercontent.com/109238222/225353898-7f492d63-4244-4946-894f-9b75b57dbfe0.png)
 
 
-Here you can see our report: https://drive.google.com/file/d/1UM5T20Wh_-RBTu8QxbUbmPfHlSwuIex7/view?usp=sharing
+
