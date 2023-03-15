@@ -1,0 +1,35 @@
+﻿#mainMenu {
+    margin: 10px;
+    width: 900px;
+    font-family: Arial;
+}
+
+#mainMenu li {
+    display: block;
+    width: 180px;
+    float: left;
+    margin-left: 2px;
+    border: 2px solid Red;
+}
+
+#mainMenu a {
+    display: block;
+    padding: 3px;
+    text-decoration: none;
+    background-color: aliceblue;
+    color: #009;
+}
+
+#mainMenu a:hover {
+    background-color: red;
+    color: white;
+}
+
+body {
+    font-family: arial;
+}
+
+h1 {
+    color: steelblue;
+    text-align: center;
+}
