@@ -2,7 +2,10 @@
 
 Created a Graduate Thesis System using aspx and MS SQL for Database Managment Systems lecture.
 
-ER Diagram of the SQL Database: 
+ER Diagram of the SQL Database:
+
+
+
 ![ER Diagram](https://user-images.githubusercontent.com/109238222/225352677-b00990cb-4345-4d7f-9c62-51f9d3236a32.png)
 
 User - Interface:
